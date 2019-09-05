@@ -3,7 +3,7 @@
 Hi! Please go to wiki page for proposal.
 
 ## Link To Project Proposal
-https://github.com/deco3500-2019/Moo-Young-Rain/wiki/Proposal
+https://github.com/deco3500-2019/Moo-Young-Rain/wiki/Concept-Proposal
 
 To be continue...
 
