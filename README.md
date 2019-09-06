@@ -1,5 +1,11 @@
 # Moo-Young-Rain
 ***
+Team Member: [@Rhea-zhang](https://github.com/Rhea-zhang)  | 
+[@maaaiko](https://github.com/maaaiko) | 
+[@LiqianYOUY](https://github.com/LiqianYOUY) | 
+[@Jiexiang-Xu](https://github.com/Jiexiang-Xu) | 
+[@elvalpw](https://github.com/elvalpw) 
+<br>
 Hi! Welcome to our visit our Github!
 
 ## Link To Project Proposal
@@ -11,9 +17,3 @@ Link to Working Prototype, Promotional Material, and Documentation
 
 Link to Final Report
 
-## Team Member
-[@Rhea-zhang](https://github.com/Rhea-zhang) 
-[@maaaiko](https://github.com/maaaiko)
-[@LiqianYOUY](https://github.com/LiqianYOUY)
-[@Jiexiang-Xu](https://github.com/Jiexiang-Xu)
-[@elvalpw](https://github.com/elvalpw)
