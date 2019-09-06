@@ -1,9 +1,9 @@
 
 # Moo-Young-Rain
 ***
-Hi! Welcome to our visit our Github!
-<br>
-## Team Member: 
+Hi! Welcome to our Github!
+<br><br>
+## Team Member
 [Tianrui Zhang (Rhea)](https://github.com/Rhea-zhang)  | 
 [Jianing Jin (Sophia)](https://github.com/maaaiko) | 
 [Liqian You (YoYo)](https://github.com/LiqianYOUY) | 
@@ -12,9 +12,5 @@ Hi! Welcome to our visit our Github!
 <br>
 ## Link To [Project Proposal](https://github.com/deco3500-2019/Moo-Young-Rain/wiki/Concept-Proposal)
 
-To be continue...
 
-Link to Working Prototype, Promotional Material, and Documentation
-
-Link to Final Report
 
