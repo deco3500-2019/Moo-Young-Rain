@@ -1,6 +1,7 @@
 # Moo-Young-Rain
 ***
-Team Member: [@Rhea-zhang](https://github.com/Rhea-zhang)  | 
+## Team Member: 
+[@Rhea-zhang](https://github.com/Rhea-zhang)  | 
 [@maaaiko](https://github.com/maaaiko) | 
 [@LiqianYOUY](https://github.com/LiqianYOUY) | 
 [@Jiexiang-Xu](https://github.com/Jiexiang-Xu) | 
@@ -8,8 +9,7 @@ Team Member: [@Rhea-zhang](https://github.com/Rhea-zhang)  |
 <br>
 Hi! Welcome to our visit our Github!
 
-## Link To Project Proposal
-https://github.com/deco3500-2019/Moo-Young-Rain/wiki/Concept-Proposal
+## Link To [Project Proposal](https://github.com/deco3500-2019/Moo-Young-Rain/wiki/Concept-Proposal)
 
 To be continue...
 
