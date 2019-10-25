@@ -22,6 +22,6 @@ Hi! Welcome to our Github [Wiki](https://github.com/deco3500-2019/Moo-Young-Rain
 
 ## Hi-Fidelity Prototype
 ### [Final Prototype](https://xd.adobe.com/view/d304bad7-8935-43fc-46e5-32103a592ee3-a535/)
-### [JavaScript Version]((https://s4541103-deco7180.uqcloud.net/DECO7350demo/home.html))
+### [JavaScript Version](https://s4541103-deco7180.uqcloud.net/DECO7350demo/home.html)
 
 
