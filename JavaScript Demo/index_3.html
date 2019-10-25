@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!--@author Liqian YOU-->
+<html lang='en'>
+    <head>
+        <title>DECO7350</title>
+        <link rel='stylesheet' href='Details/style.css' type='text/css' media='all'>
+        <script>
+            var going_num = 16;
+            var interested_num = 18;
+        </script>
+    </head>
+    <body>
+        <div>
+            <div>
+                <nav><a href='dining.html'><img src='Details/image/head.png'alt=''/></a></p>
+                </nav>
+                <a href=''><img src='Details/image/banner3.png'alt=''/></a>
+                <h1>Korean chicken and beer<a class='ic1'><img id='img1' onclick = "myEvent()" src='Details/image/ic_event_available_24px.png'alt=''/></a><a class='ic1'><img id='img2' onclick = "myFavorite()" src='Details/image/ic_favorite_24px.png'alt=''/></a></h1>
+                <p class='main'>
+                    This shop is located in Brisbane City and is very famous for its coffee and food. It is really a good choice for people who are interested in coffee food like me to join in. I really enjoy meeting new people. I would like to invite 6 people who are interested in finding the good restaurant in Brisbane to join my activity.
+                </p>
+                <img class='ic2' src='Details/image/ic_event_available_24px.png'alt=''/><h2 id = 'myEvent' class="inline">16 going</h2></br>
+                <img class='ic2' src='Details/image/ic_favorite_24px.png'alt=''/><h2 class="inline" id = 'myFavorite'>18 interested</h2>
+                <p>
+                    Date: 11am, 15/10/2019
+                </p>
+                <p>
+                    Duration: 2hr
+                </p>
+                <p>
+                    Maximum member: 6
+                </p>
+                <p>
+                    Location: <img class='ic' src='Details/image/ic_pin_drop_24px.png'alt=''/> 258 Warrigal Rd, Runcorn
+                </p>
+                <div id="mapdiv" style="width:400px;height:280px;"></div>
+                <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+                <script>
+                    map = new OpenLayers.Map("mapdiv");
+                    map.addLayer(new OpenLayers.Layer.OSM());
+      
+                    var lonLat = new OpenLayers.LonLat( 153.084035 ,-27.589168 )
+                            .transform(
+                            new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+                            map.getProjectionObject() // to Spherical Mercator Projection
+                            );
+                
+                    var zoom=16;
+      
+                    var markers = new OpenLayers.Layer.Markers( "Markers" );
+                    map.addLayer(markers);
+          
+                    markers.addMarker(new OpenLayers.Marker(lonLat));
+          
+                    map.setCenter (lonLat, zoom);
+                </script>
+                <p>
+                    Payment: All payment is available
+                </p>
+                <p>
+                    Budget: 20-40 AUS per person
+                </p>
+                <form>
+                    <input id='myInput' type="text" placeholder=" Comment">
+                    <button type="button" onclick="mySend()">Send</button>
+                </form>
+            </div>
+            <p class='line'>
+                __________________________________________________
+            </p>
+            <div>
+                <h3>
+                    <img class='icon' src='Details/image/icon1.png'alt=''/>Ivy
+                </h3>
+                <p class='i'>
+                    Can I bring my child here?
+                </p>
+                <h4>
+                    <img class='icon' src='Details/image/icon2.png'alt=''/>Lucas (Organiser)
+                </h4>
+                <p class='i'>
+                    Reply to Ivy: Sure! Welcome!
+                </p>
+                <p class='line'>
+                    __________________________________________________
+                </p>
+            </div>
+            <div>
+                <h3>
+                    <img class='icon' src='Details/image/icon3.png'alt=''/>Jack
+                </h3>
+                <p class='i'>
+                    Is there parking lot nearby?
+                </p>
+                <h4>
+                    <img class='icon' src='Details/image/icon4.png'alt=''/>Danny
+                </h4>
+                <p class='i'>
+                    I have the same question as you! 
+                </p>
+                <p class='line'>
+                    __________________________________________________
+                </p>
+            </div>
+            <div>
+                <h3>
+                    <img class='icon' src='Details/image/icon2.png'alt=''/>Lucas (Organiser)
+                </h3>
+                <p class='i'>
+                    There are plenty of parking lots nearby, don't need to worry about that. 
+                </p>
+                <h4>
+                    <img class='icon' src='Details/image/icon4.png'alt=''/>Danny
+                </h4>
+                <p class='i'>
+                    Reply to Lucas (Organiser): Thx!!! 
+                </p>
+                <p class='line'>
+                    __________________________________________________
+                </p>
+                <div id='new_comment'>  
+                </div>
+            </div>
+            <footer>
+                No comment here.
+            </footer>
+        </div>
+        <script src="MyJavaScript.js"></script>
+    </body>
+</html>
