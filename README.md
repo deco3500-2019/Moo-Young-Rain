@@ -14,7 +14,7 @@ Hi! Welcome to our Github [Wiki](https://github.com/deco3500-2019/Moo-Young-Rain
 
 ## [Project Proposal](https://github.com/deco3500-2019/Moo-Young-Rain/wiki/Concept-Proposal)
 
-## [Project Plan](https://github.com/deco3500-2019/Moo-Young-Rain/issues/4)
+## [Design Process Overview](https://github.com/deco3500-2019/Moo-Young-Rain/wiki/Design-Process-Overview)
 
 ## Mid-Fidelity Prototype 
 ### [Version 1](https://xd.adobe.com/view/1622a0e4-4a9a-444e-5050-5aad6e625b8f-6013/)
